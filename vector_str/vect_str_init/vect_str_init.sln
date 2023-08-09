@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "vect_str_init", "vect_str_init.vcxproj", "{F60706F0-0442-46CF-BC09-4B5BFC59D02A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F60706F0-0442-46CF-BC09-4B5BFC59D02A}.Debug|x64.ActiveCfg = Debug|x64
+		{F60706F0-0442-46CF-BC09-4B5BFC59D02A}.Debug|x64.Build.0 = Debug|x64
+		{F60706F0-0442-46CF-BC09-4B5BFC59D02A}.Debug|x86.ActiveCfg = Debug|Win32
+		{F60706F0-0442-46CF-BC09-4B5BFC59D02A}.Debug|x86.Build.0 = Debug|Win32
+		{F60706F0-0442-46CF-BC09-4B5BFC59D02A}.Release|x64.ActiveCfg = Release|x64
+		{F60706F0-0442-46CF-BC09-4B5BFC59D02A}.Release|x64.Build.0 = Release|x64
+		{F60706F0-0442-46CF-BC09-4B5BFC59D02A}.Release|x86.ActiveCfg = Release|Win32
+		{F60706F0-0442-46CF-BC09-4B5BFC59D02A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDF235E4-211E-43CB-8EB7-C33B7439ACB7}
+	EndGlobalSection
+EndGlobal
