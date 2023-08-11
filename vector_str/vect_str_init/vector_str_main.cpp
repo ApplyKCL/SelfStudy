@@ -4,6 +4,8 @@
 
 
 int main() {
-	vec_init();
+	//vec_init();
+	//vec_pb_fuc();
+	string_pb();
 }
 
