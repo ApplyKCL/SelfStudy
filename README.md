@@ -1,1 +1,2 @@
 # SelfStudyCPP
+## Apply Yourself
