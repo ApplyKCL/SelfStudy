@@ -1,0 +1,3 @@
+C:/code/cpp/SelfStudyCPP/lpcPra/cmake-build-debug/CMakeFiles/lpcPra.dir
+C:/code/cpp/SelfStudyCPP/lpcPra/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/code/cpp/SelfStudyCPP/lpcPra/cmake-build-debug/CMakeFiles/rebuild_cache.dir
