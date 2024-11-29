@@ -6,15 +6,19 @@ using namespace std;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 int main(int argc, char **argv)
 {
+    // check if the file input is correct
     if(argc != 2) {
         cout << "Usage: " << argv[0] << " <filename>" << endl;
         return 1;
     }
+    // read the file
     ifstream infile(argv[1]);
+    // check if the file is open
     if (!infile.is_open()) {
         cout << "Could not open file: " << argv[1] << endl;
         return 1;
     }
+    //
     vector<int> memory(100, 0);
     int read = 0;
     int index = 0;
